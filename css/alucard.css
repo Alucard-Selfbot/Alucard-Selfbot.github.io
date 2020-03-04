@@ -56,6 +56,26 @@ main {
     color: #fafafa;
 }
 
+.navbar {
+	margin: 0 auto!important;
+	padding-top: 20px;
+	width: 60%!important
+}
+
+.navbar li {
+    padding: 10px 10px;
+}
+
+.navbar a {
+    color: rgba(255, 255, 255, 0.747);
+    transition: color 0.5s ease;
+}
+
+.navbar a:hover {
+    color: white;
+    text-decoration: none;
+}
+
 /* unvisited link */
 footer a:link {
     color: white;
