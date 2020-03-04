@@ -1,7 +1,13 @@
+html {
+    text-rendering: optimizeLegibility!important;
+}
+
 body {
+    font-family: "Roboto", sans-serif !important;
+    background-color: black !important;
     display: flex;
     min-height: 100vh;
-    flex-direction: column;
+    flex-direction: column;    
 }
 
 main {
