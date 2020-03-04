@@ -76,6 +76,10 @@ main {
     text-decoration: none;
 }
 
+.navigation {
+    padding-top: 13px;
+}
+
 /* unvisited link */
 footer a:link {
     color: white;
