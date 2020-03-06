@@ -131,7 +131,7 @@ footer {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/img/Background.jpg");
+  background-image: url("https://github.com/Alucard-Selfbot/Alucard-Selfbot.github.io/blob/master/img/Background.jpg?raw=true");
 }
 
 #backgroundimg1 { min-height: 100%;
