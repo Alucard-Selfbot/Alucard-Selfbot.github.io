@@ -124,6 +124,15 @@ footer {
     margin-top: 8%;
 }
 
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
 .caption span.border {
   background-color: #111;
   color: #fff;
@@ -132,6 +141,7 @@ footer {
   letter-spacing: 10px;
   border-radius: 10px;
 }
+
 
 
 @media only screen and (min-width:992px){
