@@ -119,8 +119,22 @@ footer a:active {
 nav {
     margin-bottom: 6%;
 }
+
 footer {
     margin-top: 8%;
+}
+
+.backgroundimg {
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/Background.png");
+}
+
+#backgroundimg { min-height: 100%;
 }
 
 @media only screen and (min-width:992px){
