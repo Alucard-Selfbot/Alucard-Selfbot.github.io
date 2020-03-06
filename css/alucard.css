@@ -134,7 +134,7 @@ footer {
   background-image: url("img/Background.png");
 }
 
-#backgroundimg { min-height: 100%;
+#backgroundimg1 { min-height: 100%;
 }
 
 @media only screen and (min-width:992px){
