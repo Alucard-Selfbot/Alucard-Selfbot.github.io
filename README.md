@@ -1,1 +1,2 @@
-# Alucard-Selfbot.github.io
+# Alucard Selfbot Official Page
+ - Dev: xanthe, fweak
